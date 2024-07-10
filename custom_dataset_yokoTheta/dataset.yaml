@@ -1,0 +1,6 @@
+train: ./custom_dataset/images/train
+val: ./custom_dataset/images/val
+
+nc: 4
+
+names: ['Doll', 'Green Signal', 'Jetbot', 'Red Signal']
